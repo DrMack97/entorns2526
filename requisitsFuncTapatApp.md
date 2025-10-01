@@ -1,0 +1,1 @@
+# Requisits Funcionals tapatApp
