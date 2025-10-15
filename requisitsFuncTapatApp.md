@@ -28,7 +28,7 @@ Llista amb punts
     <li>Cuidadors (mestres, avis ...)</li>
     <li>Infant</li>
     <li>"Part pública"</li>
-</ul>
+</ul> 
 
 Llista numèrica
 <ol>
