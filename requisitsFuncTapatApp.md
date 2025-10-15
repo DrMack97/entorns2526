@@ -20,6 +20,7 @@ L’objectiu de TapatApp consisteix en proporcionar a totes les famílies afecta
 
 ## Actors de la App
 
+Llista amb punts
 <ul>
     <li>Administrador</li>
     <li>Servei Mèdic (Metges oftalmòlegs)</li>
@@ -29,6 +30,7 @@ L’objectiu de TapatApp consisteix en proporcionar a totes les famílies afecta
     <li>"Part pública"</li>
 </ul>
 
+Llista numèrica
 <ol>
     <li>Administrador</li>
     <li>Servei Mèdic (Metges oftalmòlegs)</li>
