@@ -20,12 +20,23 @@ L’objectiu de TapatApp consisteix en proporcionar a totes les famílies afecta
 
 ## Actors de la App
 
-- Administrador
-- Servei Mèdic (Metges oftalmòlegs)
-- Tutors (mares/pares)
-- Cuidadors (mestres, avis ...)
-- Infant
-- "Part pública"
+<ul>
+    <li>Administrador</li>
+    <li>Servei Mèdic (Metges oftalmòlegs)</li>
+    <li>Tutors (mares/pares)</li>
+    <li>Cuidadors (mestres, avis ...)</li>
+    <li>Infant</li>
+    <li>"Part pública"</li>
+</ul>
+
+<ol>
+    <li>Administrador</li>
+    <li>Servei Mèdic (Metges oftalmòlegs)</li>
+    <li>Tutors (mares/pares)</li>
+    <li>Cuidadors (mestres, avis ...)</li>
+    <li>Infant</li>
+    <li>"Part pública"</li>
+</ol>
 
 
 ## Requisits Funcionals RF i Requisits No Funcionals
