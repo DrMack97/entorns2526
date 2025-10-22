@@ -87,5 +87,5 @@ Llista numèrica
   <p>Com a Usuari Cuidador vull poder portar el control del Pegat. Quant de temps porta el pegat quan esta despert.</p>
 </div>
 
-### RNF
+### RNF: Requisits No Funcionals
 
