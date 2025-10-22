@@ -46,7 +46,46 @@ Llista numèrica
 ### RF
 
 <div class="alert alert-info">
-  <h4>Info</h4>
-  <p>Esta es una caja de alerta informativa creada con HTML.</p>
+  <h4>RF1: Registre</h4>
+  <h5>ROL: Tutor</h5>
+  <p>Com a Usuari Tutor vull poder registrar-me a l'aplicació amb correu electrònic, nom i password, per poder accedir-hi.</p>
 </div>
+
+<div class="alert alert-info">
+  <h4>RF2: Login</h4>
+  <h5>ROL: Tutor</h5>
+  <p>Com a Usuari Tutor vull poder accedir de forma segura a l'aplicació amb correu electrònic i password</p>
+</div>
+
+<div class="alert alert-info">
+  <h4>RF3: Alta infant</h4>
+  <h5>ROL: Tutor</h5>
+  <p>Com a Usuari Tutor vull poder registrar un infant per poder portar el control del Pegat</p>
+</div>
+
+<div class="alert alert-info">
+  <h4>RF4: Control Pegat infant</h4>
+  <h5>ROL: Tutor</h5>
+  <p>Com a Usuari Tutor vull poder portar el control del Pegat. Quant de temps porta el pegat quan esta despert.</p>
+</div>
+
+<div class="alert alert-info">
+  <h4>RF5: Control Tractament</h4>
+  <h5>ROL: Tutor</h5>
+  <p>Com a Usuari Tutor vull poder configurar el tipus de tractament de l'infant. Per temps fix o la meitat del temps que està despert.</p>
+</div>
+
+<div class="alert alert-info">
+  <h4>RF6: Alta Cuidadors</h4>
+  <h5>ROL: Tutor</h5>
+  <p>Com a Usuari Tutor vull poder afegir cuidadors per a que puguin portar també el control del pegat</p>
+</div>
+
+<div class="alert alert-info">
+  <h4>RF7: Cuidadors control pegat</h4>
+  <h5>ROL: Cuidador</h5>
+  <p>Com a Usuari Cuidador vull poder portar el control del Pegat. Quant de temps porta el pegat quan esta despert.</p>
+</div>
+
+### RNF
 
