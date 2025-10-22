@@ -43,47 +43,47 @@ Llista numèrica
 
 ## Requisits Funcionals RF i Requisits No Funcionals
 
-### RF
+### RF: Requisits Funcionals
 
 <div class="alert alert-info">
-  <h4>RF1: Registre</h4>
-  <h5>ROL: Tutor</h5>
+  <h5>RF1: Registre</h5>
+  <p>ROL: Tutor</p>
   <p>Com a Usuari Tutor vull poder registrar-me a l'aplicació amb correu electrònic, nom i password, per poder accedir-hi.</p>
 </div>
 
 <div class="alert alert-info">
-  <h4>RF2: Login</h4>
-  <h5>ROL: Tutor</h5>
+  <h5>RF2: Login</h5>
+  <p>ROL: Tutor</p>
   <p>Com a Usuari Tutor vull poder accedir de forma segura a l'aplicació amb correu electrònic i password</p>
 </div>
 
 <div class="alert alert-info">
-  <h4>RF3: Alta infant</h4>
-  <h5>ROL: Tutor</h5>
+  <h5>RF3: Alta infant</h5>
+  <p>ROL: Tutor</p>
   <p>Com a Usuari Tutor vull poder registrar un infant per poder portar el control del Pegat</p>
 </div>
 
 <div class="alert alert-info">
-  <h4>RF4: Control Pegat infant</h4>
-  <h5>ROL: Tutor</h5>
+  <h5>RF4: Control Pegat infant</h5>
+  <p>ROL: Tutor</p>
   <p>Com a Usuari Tutor vull poder portar el control del Pegat. Quant de temps porta el pegat quan esta despert.</p>
 </div>
 
 <div class="alert alert-info">
-  <h4>RF5: Control Tractament</h4>
-  <h5>ROL: Tutor</h5>
-  <p>Com a Usuari Tutor vull poder configurar el tipus de tractament de l'infant. Per temps fix o la meitat del temps que està despert.</p>
+  <h5>RF5: Control Tractament</h5>
+  <p>ROL: Tutor</p>
+  <p>Com a Usuari Tuator vull poder configurar el tipus de tractament de l'infant. Per temps fix o la meitat del temps que està despert.</p>
 </div>
 
 <div class="alert alert-info">
-  <h4>RF6: Alta Cuidadors</h4>
-  <h5>ROL: Tutor</h5>
+  <h5>RF6: Alta Cuidadors</h5>
+  <p>ROL: Tutor</p>
   <p>Com a Usuari Tutor vull poder afegir cuidadors per a que puguin portar també el control del pegat</p>
 </div>
 
 <div class="alert alert-info">
-  <h4>RF7: Cuidadors control pegat</h4>
-  <h5>ROL: Cuidador</h5>
+  <h5>RF7: Cuidadors control pegat</h5>
+  <p>ROL: Cuidador</p>
   <p>Com a Usuari Cuidador vull poder portar el control del Pegat. Quant de temps porta el pegat quan esta despert.</p>
 </div>
 
