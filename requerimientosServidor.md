@@ -53,3 +53,6 @@ Python
 ### b. Requisitos de Infrastructura
 
 # 4. Requisitos del Proceso de desarrollo
+
+- ID's: VScode Python, Android Studio, PyCharm 
+- Control de versions: git, Github
