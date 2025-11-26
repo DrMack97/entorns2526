@@ -26,4 +26,7 @@ Aquí configurem VSCode
 
 # Prototip 1
 
+Connectar Client / Servidor.
+Consultar dades d'usuari per nom.
+
 [Diagrama d'arquitectura prototip 1](charts/diagramaprototip1.mermaid)
