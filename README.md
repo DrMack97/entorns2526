@@ -25,3 +25,5 @@ Aquí configurem VSCode
 [Projecte a GiutHub](https://github.com/users/amallad2/projects/9/views/1)
 
 # Prototip 1
+
+[Diagrama d'arquitectura prototip 1](charts/diagramaprototip1.mermaid)
