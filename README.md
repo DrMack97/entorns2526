@@ -22,4 +22,6 @@ Aquí configurem VSCode
 - Iteració 4: 9/03 - 8/04 (11h) - Vistes Wireframes i BBDD
 - Iteració 5: 13/04 - 29/04 (9h) - Pegat i Testing
 
+[Projecte a GiutHub](https://github.com/users/amallad2/projects/9/views/1)
+
 # Prototip 1
