@@ -11,7 +11,7 @@ def saludo():
     nombre = request.args.get('nombre')  # Parámetro en la URL
     if not nombre:
         return jsonify({'error': 'Falta el parámetro "nombre"'}), 400
-    return jsonify({'mensaje': f'Hola, {Mauricio}!'})
+    return jsonify({'mensaje': f'Hola, {nombre}!'})
 
 
 
